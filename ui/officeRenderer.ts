@@ -1,0 +1,1 @@
+export const statusLabel=(status?:string)=>status==='completed'?'Ready for review':status==='working'?'Working':status==='failed'||status==='interrupted'?'Needs attention':status==='cancelled'?'Cancelled':status==='waiting'?'Waiting':status==='queued'?'Queued':'Available';
