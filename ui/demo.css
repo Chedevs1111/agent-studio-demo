@@ -260,3 +260,5 @@
     font-size: 11px;
   }
 }
+.public-demo .brand strong{color:#fff;font-size:17px;display:block}.public-demo .brand small{color:#c5d7ca}.public-demo a.primary{background:#355747;color:#fff;border-radius:11px;font-weight:600;padding:12px 18px;text-decoration:none}.public-demo .demo-output pre{font-family:inherit;font-size:13px;line-height:1.9}
+@media(max-width:700px){.public-demo .sidebar{display:flex;flex-flow:row wrap;align-items:center;justify-content:space-between;min-height:64px}.public-demo .sidebar .brand{display:flex;flex-direction:row;justify-content:flex-start;align-items:center;gap:10px;width:auto;flex:1;min-width:0}.public-demo .sidebar .brand .brand-mark{flex:0 0 34px}.public-demo .sidebar .brand strong{font-size:15px}.public-demo .sidebar .brand small{font-size:9px}.public-demo .sidebar .collapse-nav{margin:0;flex:0 0 44px;max-width:44px;height:44px}.public-demo .demo-output pre{font-size:12px}}
